@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. BinaryDigitsCount", "01. BinaryDigitsCount\01. BinaryDigitsCount.csproj", "{8AA897B9-E27D-40E1-B647-5F6E3DF7A044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. BitAtPosition1", "02. BitAtPosition1\02. BitAtPosition1.csproj", "{1385624A-0829-420D-A031-90698D1A7232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8AA897B9-E27D-40E1-B647-5F6E3DF7A044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA897B9-E27D-40E1-B647-5F6E3DF7A044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA897B9-E27D-40E1-B647-5F6E3DF7A044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1385624A-0829-420D-A031-90698D1A7232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1385624A-0829-420D-A031-90698D1A7232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1385624A-0829-420D-A031-90698D1A7232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1385624A-0829-420D-A031-90698D1A7232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
